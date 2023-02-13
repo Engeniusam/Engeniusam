@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://engeniusam.github.io/portfolio.com/)
 <h1 align="center">Hi 👋, I'm Samuel Macharia</h1>
 <h3 align="center"> A passionate frontend developer from Kenya</h3>
+<img align="right" alt="Coding" width="400"  src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ff1%2Fe7%2F34%2Ff1e734f9cade86fe737a9aa404ad5677.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F126663808259169690%2F&tbnid=VnWiM7Rotib3CM&vet=12ahUKEwiGsKSS35L9AhXTYPEDHTDiC8QQMygIegUIARCjAg..i&docid=i_mzvhdzP3URQM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwiGsKSS35L9AhXTYPEDHTDiC8QQMygIegUIARCjAg">
 # 💫 About Me:
 🔭 I’m currently working on Flutter App<br><br>🌱 I’m currently learning DevOps<br><br>💬 Ask me about MERN<br><br>📫 How to reach me samuelmu@ueab.ac.ke<br><br>⚡ Fun fact I am incredibly Crazy
 
