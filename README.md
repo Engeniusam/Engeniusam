@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Samuel Macharia</h1>
+<h3 align="center"> A passionate frontend developer from Kenya</h3>
 # 💫 About Me:
 🔭 I’m currently working on Flutter App<br><br>🌱 I’m currently learning DevOps<br><br>💬 Ask me about MERN<br><br>📫 How to reach me samuelmu@ueab.ac.ke<br><br>⚡ Fun fact I am incredibly Crazy
 
