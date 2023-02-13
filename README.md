@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/computer-hacking-wallpaper-gif/660727594.jpg)
+[![MasterHead](https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/28/computer-hacking-wallpaper-gif/660727594.jpg)](https://engeniusam.github.io/portfolio.com/)
 <h1 align="center">Hi 👋, I'm Samuel Macharia</h1>
 <h3 align="center"> A passionate frontend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-# 💫 About Me:
 🔭 I’m currently working on Flutter App<br><br>🌱 I’m currently learning DevOps<br><br>💬 Ask me about MERN<br><br>📫 How to reach me samuelmu@ueab.ac.ke<br><br>⚡ Fun fact I am incredibly Crazy
 
 
