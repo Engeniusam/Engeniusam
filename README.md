@@ -1,8 +1,8 @@
 [![MasterHead](https://www.techcronus.com/assets/images/HireReactNativeDeveloper.png)](https://engeniusam.github.io/portfolio.com/)
 
-<h1 align="center">Hi 👋, I'm Samuel Macharia</h1>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Engeniusam)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13606100) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Engeniusam)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Engeniusam)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13606100) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Engeniusam)
+<h1 align="center">Hi 👋, I'm Samuel Macharia</h1>
 
 <h3 align="center"> A passionate Frontend Developer from Kenya</h3>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
