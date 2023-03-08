@@ -31,6 +31,8 @@
 <summary> <b>🏆 GitHub Trophies </b></summary>
 ![](https://github-profile-trophy.vercel.app/?username=Engeniusam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </details>
+
+
 ## 🐦 Read Daily Dev Tips
 <a href="https://app.daily.dev/Engeniusam"><img align="center" src="https://api.daily.dev/devcards/328948c7fe6d4ba9a501048b90380ddb.png?r=pux" width="400" alt="Samuel Macharia's Dev Card"/></a>
 
