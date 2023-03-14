@@ -5,8 +5,6 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Engeniusam)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13606100) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Engeniusam)
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="engeniusam" data-color="#BD5FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
 <h3 align="center"> A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 🔭 I’m currently working on Flutter App<br><br>🌱 I’m currently learning DevOps<br><br>💬 Ask me about MERN<br><br>📫 How to reach me samuelmu@ueab.ac.ke<br><br>⚡ Fun fact : I love to speak publicly about Open-Source Contribution and playing Chess. 
@@ -46,5 +44,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Engeniusam&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a href="https://www.buymeacoffee.com/engeniusam"><img align="center" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=engeniusam&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
