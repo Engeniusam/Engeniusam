@@ -7,7 +7,7 @@
 
 <h3 align="center"> A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-🔭 I’m currently working on Flutter App<br><br>🌱 I’m currently learning DevOps<br><br>💬 Ask me about MERN<br><br>📫 How to reach me samuelmu@ueab.ac.ke<br><br>⚡ Fun fact : I love to speak publicly about Open-Source Contribution and playing Chess. 
+🔭 I’m currently working on Food Order School System<br><br>🌱 I’m currently learning Postman<br><br>💬 Ask me about MERN<br><br>📫 How to reach me samuelmu@ueab.ac.ke<br><br>⚡ Fun fact : I love to speak publicly about Open-Source Contribution and playing Chess. 
 
 
 
