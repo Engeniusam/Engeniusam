@@ -10,7 +10,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Engeniusam)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13606100) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Engeniusam)
 
-<h3 align="center"> About Me</h3>
+<h3 align="center"> 👨‍💻 About Me 🧾</h3>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 🔭 I’m currently working on Food Order School System<br><br>🌱 I’m currently learning Postman<br><br>💬 Ask me about MERN<br><br>📫 How to reach me samuelmu@ueab.ac.ke<br><br>⚡ Fun fact : I love to speak publicly about <a href="https://hashnode.com/@Engeniusam">Open-Source Contribution</a> and playing Chess. 
 
