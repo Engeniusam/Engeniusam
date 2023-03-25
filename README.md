@@ -64,6 +64,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+## If you like my profile, feel free to leave a star 🌟  and buy me a coffee which encourages me!
+
 <a href="https://www.buymeacoffee.com/engeniusam"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=engeniusam&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=Engeniusam&icon=0&color=0)](https://visitcount.itsvg.in)
