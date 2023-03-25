@@ -14,7 +14,9 @@
 
 <h3 align="center"> 👨‍💻 About Me 🧾</h3>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-🔭 I’m currently working on Food Order School System<br><br>🌱 I’m currently learning Postman<br><br>👯 I’m looking to collaborate on <b>anything Frontend</b> <br> <br>💬 Ask me about MERN<br><br>📫 How to reach me: Contact me on Discord **_[Engeniusam#4486](https://Engeniusam.com/discord)_**  <br><br>⚡ Fun fact : I love to speak publicly about <a href="https://hashnode.com/@Engeniusam">Open-Source Contribution</a> and playing Chess. 
+🔭 I’m currently working on Food Order School System<br><br>🌱 I’m currently learning Postman<br><br>👯 I’m looking to collaborate on <b>anything Frontend</b> <br> <br>💬 Ask me about MERN<br><br>
+📫 How to reach me: Contact me on Discord **_[Engeniusam#4486](https://Engeniusam.com/discord)_** 
+<br><br>⚡ Fun fact : I love to speak publicly about <a href="https://hashnode.com/@Engeniusam">Open-Source Contribution</a> and playing Chess. 
 
 
 
