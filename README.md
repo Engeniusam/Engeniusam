@@ -52,7 +52,7 @@
   </tr>
   <tr>
      <td>
-      <a href="https://engeniusam.hashnode.dev/beginners-guide-to-contributing-to-open-source-projects"><img align="right" src="https://t4.ftcdn.net/jpg/01/35/11/89/360_F_135118931_mt4u5iXT3jlQuibmtzZ6FxiFI2M9ZUwB.webp"  width="400" alt="Samuel Macharia's Blog Poster"/> <br><strong>Click here 👉 Empowering Open Source Contributions with ChatGPT.</strong></a>
+      <a href="https://engeniusam.hashnode.dev/must-have-tools-for-contributing-to-open-source-projects"><img align="right" src="https://t4.ftcdn.net/jpg/01/35/11/89/360_F_135118931_mt4u5iXT3jlQuibmtzZ6FxiFI2M9ZUwB.webp"  width="400" alt="Samuel Macharia's Blog Poster"/> <br><strong>Click here 👉 Empowering Open Source Contributions with ChatGPT.</strong></a>
  </td>
 <td><a href="https://app.daily.dev/Engeniusam"><img align="left" src="https://api.daily.dev/devcards/328948c7fe6d4ba9a501048b90380ddb.png?r=pux" width="400" alt="Samuel Macharia's Dev Card"/></a></td>
  </tr>
