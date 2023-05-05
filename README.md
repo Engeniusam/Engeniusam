@@ -44,7 +44,7 @@
 
 </details>
 
-## 🔥 Trendin
+## 🔥 Trending
 <table>
   <tr>
      <th>📝 My latest blog post</th>
