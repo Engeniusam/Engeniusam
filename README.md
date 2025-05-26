@@ -3,7 +3,7 @@
 <!--<h1 align="center">Hi 👋, I'm Samuel Macharia</h1>-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi+👋,+I'm+Samuel+Macharia;+A+Frontend+Software+Engineer+💻;Open+Source+Contributor+🤓;A+Technical+Writer+and+blogger+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi+👋,+I'm+Samuel+Macharia;+A+Cloud+DevOps+Engineer+💻;Community+Advocate+🤓;A+Technical+Writer+and+blogger+🕵;">
 </p>
 
 <hr>
@@ -14,7 +14,7 @@
 
 <h3 align="center"> 👨‍💻 About Me 🧾</h3>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-🔭 I’m currently working on Data Structures and Algorithms<br><br>🌱 I’m currently learning Postman<br><br>👯 I’m looking to collaborate on <b>anything Frontend</b> <br> <br>💬 Ask me about MERN<br><br>
+🔭 I’m currently working on a Cloud Project<br><br>🌱 I’m currently learning Kubernetes<br><br>👯 I’m looking to collaborate on <b>anything Cloud</b> <br> <br>💬 Ask me about AWS, Azure or Google Cloud<br><br>
 📫 How to reach me : Contact me on <a href="https://discord.gg/gpew2KURfJ" target="_blank">Discord</a> <br><br>⚡ Fun fact : I love to speak publicly about <a href="https://hashnode.com/@Engeniusam">Open-Source Contribution</a> and playing Chess. 
 
 
