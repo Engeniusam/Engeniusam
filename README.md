@@ -3,7 +3,7 @@
 <!--<h1 align="center">Hi 👋, I'm Samuel Macharia</h1>-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi+👋,+I'm+Samuel+Macharia;+A+Cloud+DevOps+Engineer+💻;Google+Developer+Expert+for+Google+Cloud+🤓;Grafana+Champion+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi+👋,+I'm+Samuel+Macharia;+A+Cloud+DevOps+Engineer+💻;Google+Developer+Expert+Google+Cloud+🤓;Grafana+Champion+🕵;">
 </p>
 
 <hr>
